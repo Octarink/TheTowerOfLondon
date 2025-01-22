@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a31043968574128b322ae09497069ef, type: 3}
+  m_Name: TowerLevelsConfig
+  m_EditorClassIdentifier: 
+  _data:
+  - Left: 0100000002000000
+    Center: 
+    Right: 00000000
+    Steps: 3
+  - Left: 0200000003000000
+    Center: 01000000
+    Right: 00000000
+    Steps: 4
+  - Left: 03000000
+    Center: 01000000
+    Right: 0000000002000000
+    Steps: 4
+  - Left: 0200000003000000
+    Center: 01000000
+    Right: 0000000004000000
+    Steps: 7

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273b9a2774b24ab6bdebb3a7fa23baac, type: 3}
+  m_Name: TorConfig
+  m_EditorClassIdentifier: 
+  _tors:
+  - {fileID: 4442786087704278203, guid: c47591798de48494cb82559a326e6516, type: 3}
+  - {fileID: 4442786087704278203, guid: e427df40e3b384b40b15dccd79df61c6, type: 3}
+  - {fileID: 4442786087704278203, guid: 8308a7d7b7dd56147a711a8135e4672d, type: 3}
+  - {fileID: 4442786087704278203, guid: 90c0601c921487e4e938270909e5d803, type: 3}
+  - {fileID: 4442786087704278203, guid: f8d64eb054d88844783e143447fdf054, type: 3}
